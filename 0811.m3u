@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 ,直播1
-http://pull-hls-spe-l1.douyincdn.com/fantasy-bak/stream-405998377801614006_thirduhd/playlist.m3u8?keeptime=00015180&major_anchor_level=common&t_id=037-20250814084627270D6242E9367A53ECB8-CsRFiC&wsSecret=adc3f4e902c7c5b907898b8573832f38&wsTime=689d31e3
+http://pull-hls-spe-l26.douyincdn.com/fantasy/stream-405998377801614006_thirduhd.m3u8?expire=689ffcb4&major_anchor_level=common&sign=0dedbc09d079a5ecb74b6c0a95cb61b9&t_id=037-20250815113620E35DE1D1260F7C4B268F-56vcIn
 #EXTINF:-1,直播2
-http://pull-tsl-spe-l26.douyinliving.com/fantasy/stream-405998377801614006_thirduhd5.m3u8?TimeShiftFormat=offset&expire=689e8363&major_anchor_level=common&sign=c228ca9a7608d9a30d0fb2f80359c007&t_id=037-20250814084627270D6242E9367A53ECB8-SQBZBJ
+http://pull-hls-spe-l1.douyinliving.com/fantasy/stream-405998377801614006_thirduhd5/playlist.m3u8?keeptime=00015180&major_anchor_level=common&t_id=037-20250815113617998430B4024C68B374B0-QBpI22&wsSecret=f213f8a87cbd95c94fb0bec3319b16ae&wsTime=689eab32
 #EXTINF:-1,直播3
-http://pull-hls-spe-l26.douyinliving.com/fantasy/stream-405998377801614006_thirduhd5.m3u8?expire=689e8363&major_anchor_level=common&sign=c228ca9a7608d9a30d0fb2f80359c007&t_id=037-20250814084627270D6242E9367A53ECB8-SQBZBJ
+http://pull-spe-l3.douyinliving.com/fantasy/stream-405998377801614006_thirduhd.m3u8?auth_key=1755313645-0-0-8fad69f4ff25083a53cfd4c678431211&major_anchor_level=common&t_id=037-20250815113724E1860302FBC6CCD66908-sM9ikP
 #EXTINF:-1,直播4
 https://d1--cn-gotcha204-1.bilivideo.com/live-bvc/930774/live_1780480185_35427162_prohevc/index.m3u8?expires=1754888208&len=0&oi=3071509720&pt=web&qn=10000&trid=1007729dbc7ddca9b9601a018fde0b68996a&bmt=1&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha204&sign=ed054b322f35e565db11eb46073e17a4&site=157be014b8599d3a21bb1d4998a2946a&free_type=0&mid=593714920&sche=ban&bvchls=1&trace=16&isp=ct&rg=South&pv=Guangdong&info_source=hot_cache&codec=1&expected_qn=10000&long_ab_flag=live_default_longitudinal&strategy_type=0&p2p_type=1&pp=rtmp&strategy_types=0,1&score=81&deploy_env=prod&strategy_id=11&origin_bitrate=1919069&sl=10&strategy_version=latest&hdr_type=0&strategy_ids=11,11&hot_cdn=909773&long_ab_id=45&sk=71ad1750724019e0e3d1e070ba812b30&media_type=0&suffix=prohevc&ld=xs&flvsk=038ed6d2b0cbbb9af76a8698f6b804a6&source=puv3_onetier&long_ab_flag_value=test&vd=bc&src=puv3&order=1
 #EXTINF:-1 ,直播6
